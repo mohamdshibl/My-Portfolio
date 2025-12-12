@@ -59,25 +59,6 @@
     "assets": [
       "assets/images/wazefa3.jfif"
     ]
-  },
-  {
-    "id": "4",
-    "title": "Wazzefa",
-    "description": "Wazzefa project provides every employer with specialized recruitment consultants to passionately help through out the full hiring journey until the perfect candidate is hired.",
-    "techStack": [
-      "Android App",
-      "rest api",
-      "Chart.js"
-    ],
-    "features": [
-      "Interactive data visualization",
-      "Report export to PDF/CSV",
-      "Multi-account management"
-    ],
-    "repoUrl": "https://github.com/mohamdshibl/Wazefa",
-    "liveUrl": "https://dashboard.mshibl.dev",
-    "assets": [
-      "assets/images/wazefa3.jfif"
-    ]
   }
+
 ]
