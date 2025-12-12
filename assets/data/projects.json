@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1",
+    "title": "RMS POS",
+    "description": "building restaurant and\ncafé POS solutions from scratch. Skilled in developing order and table management,\nmulti-method payment processing, reporting tools, and hardware integration (receipt\n\nprinters, cash drawers) with offline-first architecture.",
+    "techStack": [
+      "Flutter",
+      "Sqlflite",
+      "Bloc/Cubit",
+      "GetX"
+    ],
+    "features": [
+      "Offline-first architecture",
+      "Product catalog with search and filtering",
+      "Real-time synchronization"
+    ],
+    "repoUrl": "https://github.com/mshibl/ecommerce_app",
+    "liveUrl": "https://mshibl-ecommerce.web.app",
+    "assets": [
+      "assets/images/pos.PNG"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "RMS Dashboard",
+    "description": "Productivity tool for managing daily tasks and collaborating with teams.",
+    "techStack": [
+      "Flutter",
+      "Cubit",
+      "GetX"
+    ],
+    "features": [
+      "User authentication and profile management",
+      "Report export to PDF/CSV",
+      "Customizable themes and layouts"
+    ],
+    "repoUrl": "https://github.com/mshibl/task_manager",
+    "liveUrl": null,
+    "assets": [
+      "assets/images/rmsdash.PNG"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Wazzefa",
+    "description": "Wazzefa project provides every employer with specialized recruitment consultants to passionately help through out the full hiring journey until the perfect candidate is hired.",
+    "techStack": [
+      "Android App",
+      "rest api",
+      "Chart.js"
+    ],
+    "features": [
+      "Interactive data visualization",
+      "Report export to PDF/CSV",
+      "Multi-account management"
+    ],
+    "repoUrl": "https://github.com/mohamdshibl/Wazefa",
+    "liveUrl": "https://dashboard.mshibl.dev",
+    "assets": [
+      "assets/images/wazefa3.jfif"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Wazzefa",
+    "description": "Wazzefa project provides every employer with specialized recruitment consultants to passionately help through out the full hiring journey until the perfect candidate is hired.",
+    "techStack": [
+      "Android App",
+      "rest api",
+      "Chart.js"
+    ],
+    "features": [
+      "Interactive data visualization",
+      "Report export to PDF/CSV",
+      "Multi-account management"
+    ],
+    "repoUrl": "https://github.com/mohamdshibl/Wazefa",
+    "liveUrl": "https://dashboard.mshibl.dev",
+    "assets": [
+      "assets/images/wazefa3.jfif"
+    ]
+  }
+]
